@@ -1,0 +1,7 @@
+sql-host: "localhost"
+sql-port: "3306"
+sql-database: "mysql"
+sql-username: "username"
+sql-password: "password"
+no-permission-message: "ERROR..."
+chat-format: "_prefix__player-name_: _message_"

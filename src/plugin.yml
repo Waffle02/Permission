@@ -1,0 +1,21 @@
+name: Permissions
+main: me.waffle.permissions.Permissions
+author: Waffle_02
+version: 0.1
+commands:
+  addgroup:
+    description: "Create a group."
+  addpermission:
+    description: "Add a permission to a group."
+  delgroup:
+    description: "Delete a group."
+  listgroups:
+    description: "List groups."
+  rmpermission:
+    description: "Remove a permission from a group."
+  setgroup:
+    description: "Set a player's group."
+  setprefix:
+    description: "Set a group's prefix."
+  listperms:
+    description: "List all permissions."
